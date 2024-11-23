@@ -6,7 +6,7 @@ This is the link to the Figma design I made for a hackathon project, it is very 
 
 This repository showcases the Figma design of a web platform aimed at simplifying campus life for college students. Developed during a 24-hour hackathon, the platform integrates essential features like hostel bookings and an OLX-style marketplace to enhance convenience and connectivity on campus.
 
-🔗 View the Design
+🔗 View the Design: https://www.figma.com/design/fp3ZOLLeXw3HOYVeUAwLRI/Travel-%26-Tour-Booking-Website-(Community)?node-id=0-1&t=XnKVr7FwRGke4Tqn-1
 
 Explore the full Figma design here:
 👉 Click to View the Figma Project
