@@ -8,9 +8,6 @@ This repository showcases the Figma design of a web platform aimed at simplifyin
 
 🔗 View the Design: https://www.figma.com/design/fp3ZOLLeXw3HOYVeUAwLRI/Travel-%26-Tour-Booking-Website-(Community)?node-id=0-1&t=XnKVr7FwRGke4Tqn-1
 
-Explore the full Figma design here:
-👉 Click to View the Figma Project
-
 🚀 Project Overview
 
 Purpose
